@@ -524,6 +524,9 @@ footer:hover {
   color: white;
   padding-top: 30px;
 }
+.ser-card .card p {
+  color: rgb(172, 188, 224);
+}
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .navbar {
     display: flex;
